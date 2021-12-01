@@ -8,9 +8,13 @@
 Professor: **[Dr. Hossein Hajiabolhassan](https://github.com/hhaji)**
 
 Special thanks to: **[Dr. Zahra Taheri](https://github.com/zahta)**  for providing the data
-- Group members
-    - [Alireza Irani](https://github.com/Alirezairani1999)**
-    - [Aryan Sabunchi](https://github.com/ar1ans)**
+- Group members :
+    - **[Alireza Irani](https://github.com/Alirezairani1999)**
+    - **[Aryan Sabunchi](https://github.com/ar1ans)**
+    - **[Homa Barghamadi](https://github.com/homa1999)**
+    - **[Heli Khoshroo](https://github.com/heliakhoshroo)**
+#introduction
+in this project we are going to apply machine learning method for above dataset. 
 
 
     
