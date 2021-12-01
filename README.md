@@ -14,7 +14,7 @@ Special thanks to: **[Dr. Zahra Taheri](https://github.com/zahta)**  for providi
     - **[Homa Barghamadi](https://github.com/homa1999)**
     - **[Heli Khoshroo](https://github.com/heliakhoshroo)**
     
-###introduction
+### Introduction
 in this project we are going to apply machine learning method for above dataset. 
 
 
